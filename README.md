@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prachsi1618
+- 👋 Hi, I’m @prachis1618
 - 👀 I’m interested in coding and reading books
 - 🌱 I’m currently learning in a better way
 - 🌱 I'm good at Python, python related frameorks, API Integration.
